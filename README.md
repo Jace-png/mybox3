@@ -1,2 +1,3 @@
 # mybox3
-exercise
+行使
+仅仅作为练习
